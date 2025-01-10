@@ -53,6 +53,12 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
 
+.logo{
+  width: 30px;
+  height: 30px;
+  margin-right: auto;
+  border-radius: 25%;
+}
 body {
   margin: 0;
   font-family: "Nunito", sans-serif;
